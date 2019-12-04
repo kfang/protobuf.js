@@ -1,7 +1,15 @@
 # [6.8.8](https://github.com/dcodeIO/protobuf.js/releases/tag/6.8.8)
 
 ## Fixed
-[:hash:](https://github.com/dcodeIO/protobuf.js/commit/3001425b0d896d14188307cd0cc84ce195ad9e04) Persist recent index.d.ts changes in JSDoc<br />
+[:hash:](https://github.com/dcodeIO/protobuf.js/commit/6fa4c3487c50f9e2647a384bf64cfb009752b6a7) Second part of a reserved range is exclusive ([#1122](https://github.com/dcodeIO/protobuf.js/issues/1122))<br />
+
+## Docs
+[:hash:](https://github.com/dcodeIO/protobuf.js/commit/02482a69f0aaf32731b0155deec3a48cfa4c4151) Remove non-existent method from README ([#1119](https://github.com/dcodeIO/protobuf.js/issues/1119))<br />
+
+## Other
+[:hash:](https://github.com/dcodeIO/protobuf.js/commit/9c533b721bb98da924313f563d950909d5de0e36) update changelog<br />
+[:hash:](https://github.com/dcodeIO/protobuf.js/commit/2fc0eb9aca5e83b286d215b6edb24d1824018670) update package name<br />
+[:hash:](https://github.com/dcodeIO/protobuf.js/commit/0193fa983ecd57256eb5df012d3bcb190aed8e1b) add .idea to gitignore<br />
 
 # [6.8.7](https://github.com/dcodeIO/protobuf.js/releases/tag/6.8.7)
 
